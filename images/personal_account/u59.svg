@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="170px" height="150px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="Clip7">
+      <path d="M 449 342  C 407.375 342  374 308.625  374 267  L 374 267  C 374 225.375  407.375 192  449 192  L 469 192  C 510.625 192  544 225.375  544 267  L 544 267  C 544 308.625  510.625 342  469 342  " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -374 -192 )">
+    <path d="M 374 192  L 544 192  L 544 342  L 374 342  L 374 192  " fill-rule="nonzero" fill="rgba(204, 204, 204, 1)" stroke="none" class="fill" mask="url(#Clip7)" />
+    <path d="M 385 203  L 533 203  L 533 331  L 385 331  L 385 203  " fill-rule="nonzero" fill="rgba(255, 255, 255, 1)" stroke="none" class="fill" mask="url(#Clip7)" />
+    <path d="M 473.65 237  C 467.34999999999997 237  462.4 232.05  462.4 225.75  C 462.4 219.45  467.34999999999997 214.5  473.65 214.5  C 479.95 214.5  484.9 219.45  484.9 225.75  C 484.9 232.05  479.95 237  473.65 237  " fill-rule="nonzero" fill="rgba(204, 204, 204, 1)" stroke="none" class="fill" mask="url(#Clip7)" />
+    <path d="M 389 327  L 389 261  L 424 231  L 473 263.47058823529414  L 501 249  L 529 263.47058823529414  L 529 327  L 389 327  " fill-rule="nonzero" fill="rgba(22, 155, 213, 1)" stroke="none" class="fill" mask="url(#Clip7)" />
+  </g>
+</svg>
